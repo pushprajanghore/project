@@ -1,5 +1,7 @@
 package org.example;
 
 public class A {
-  sssssssssssssssss
+  System.out.println("ss");
+
+  dnsn
 }
