@@ -1,4 +1,4 @@
-package org.example;
+gfuhguduiuhuiuuihuhupackage org.example;
 
 public class A {
   System.out.println("ss");
