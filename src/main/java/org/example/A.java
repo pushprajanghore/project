@@ -1,7 +1,9 @@
-gfuhguduiuhuiuuihuhupackage org.example;
+package org.example;
 
 public class A {
-  System.out.println("ss");
+    public static void main(String[] args) {
 
-  dnswwdhiuhiufdhuhwd
+
+        System.out.println("ss");
+    }
 }
